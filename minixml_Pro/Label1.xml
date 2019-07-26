@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrtLable>
+  <!--picture draw area -->
+  <PictureArea>
+    <!--picture draw area -->
+    <AreaSize Height="238" Width="250" />
+  </PictureArea>
+  <ObjectList Count="1">
+    <!--print object list-->
+    <DrawObject>
+      <zOrder>0</zOrder>
+      <Type>DrawLineHorizontal</Type>
+      <Start X="41" Y="59" order="0" />
+      <End X="208" Y="59" order="0" />
+      <Color>-16777216</Color>
+      <PenWidth>1</PenWidth>
+      <FillColor>-16777216</FillColor>
+      <Name>LineHorizontal1</Name>
+    </DrawObject>
+  </ObjectList>
+</PrtLable>

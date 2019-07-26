@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minixml_Pro", "minixml_Pro\minixml_Pro.vcxproj", "{767F0E65-E594-45C0-8A72-D4ABFF03A4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767F0E65-E594-45C0-8A72-D4ABFF03A4B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{767F0E65-E594-45C0-8A72-D4ABFF03A4B8}.Debug|Win32.Build.0 = Debug|Win32
+		{767F0E65-E594-45C0-8A72-D4ABFF03A4B8}.Release|Win32.ActiveCfg = Release|Win32
+		{767F0E65-E594-45C0-8A72-D4ABFF03A4B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
